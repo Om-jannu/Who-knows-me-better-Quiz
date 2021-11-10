@@ -44,7 +44,7 @@ checkans("\nwhat is my favourite clothing?\n1.Shirts\n2.Sweatshirt\n3.T-shirts\n
 
 checkans("\nWhich among them is my Gaming nickname?\n1.oovee\n2.ooveelegends\n3.legendsoovee\n4.all of the above \n","4");
 
-checkans("\nWhat among these i love the most\n1.Food\n.2.movie nights\n3.Gaming\n4.Sleeping \n","3");
+checkans("\nWhat among these i love the most\n1.Food\n2.movie nights\n3.Gaming\n4.Sleeping \n","3");
 
 //result
 if(firstqns=="y"){
